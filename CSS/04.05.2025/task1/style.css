@@ -1,0 +1,17 @@
+.pre{
+    display: flex;
+   gap: 20px;
+justify-content: center;
+position: relative;
+
+
+}
+.chile{
+     width: auto;
+    height:auto;
+    border: 2px solid;
+    border-radius: 5px;
+    text-align: center;
+
+}
+

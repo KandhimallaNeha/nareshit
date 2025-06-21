@@ -1,0 +1,24 @@
+body{
+    background-color: lightskyblue;
+}
+#html{
+    background-color: mediumblue;
+    text-align: center;
+}
+#Personal{
+    color: darkgray;
+
+}
+#simple{
+    color: lightgreen;
+}
+#About{
+    border: 2px solid;
+
+}
+#me{
+    color: darkblue;
+}
+b{
+    color: red;
+}

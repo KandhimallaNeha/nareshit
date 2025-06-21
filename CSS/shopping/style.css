@@ -1,0 +1,25 @@
+#banner{
+    background-image: url("https://images.meesho.com/images/marketing/1746425994914.webp");
+    height: 400px;
+    background-size: cover;
+    
+    
+}
+.goldBanner{
+    background-image: url("./images/gold.jpg");
+    background-size: cover;
+    width: 100%;
+}
+.goldBanner>div{
+    max-width: 30w;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    row-gap: 30px;
+    column-gap: 20px;
+    margin-right: 100px;
+}
+.products{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}

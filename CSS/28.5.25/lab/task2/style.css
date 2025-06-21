@@ -1,0 +1,94 @@
+#h1{
+    background-color: burlywood;
+    padding:20px;
+}
+#TastyBites{
+    background-color: rgb(101, 46, 6);
+    text-align: center;
+}
+#Restaurant{
+    color: chocolate;
+}
+#food{
+    color: white;
+}
+#nav{
+    background-color: darkgray;
+
+}
+#Home{
+    background-color: rgb(145, 98, 83);
+   
+}
+#Menu{
+    background-color: rgb(145, 98, 83);
+}
+#Order{
+    background-color: rgb(145, 98, 83);
+}
+#Contact{
+    background-color: rgb(145, 98, 83);
+}
+#Starters{
+ border: 2px solid;
+}
+#start{
+    color: chocolate;
+}
+#ul{
+    background-color: khaki;
+}
+#main{
+    border: 2px solid;
+}
+#course{
+    color: chocolate;
+}
+#table{
+    border: 2px solid;
+    background-color: azure;
+}
+#jamun{
+     border: 2px solid;
+}
+#ul2{
+     background-color: khaki;
+}
+#costomer{
+    border: 2px solid;
+}
+#Review{
+     color: chocolate;
+}
+#one{
+    border: 2px solid;
+}
+#food{
+    color: chocolate;
+}
+blockquote{
+    background-color: aqua;
+}
+h3{
+    color: chocolate;
+}
+div{
+     border: 2px solid;
+}
+input{
+    background-color:darkgrey;
+}
+textarea{
+    background-color: darkgrey;
+}
+select{
+    background-color: dimgrey;
+}
+code{
+    background-color: lightblue;
+}
+#tasty{
+    background-color: rgb(145, 98, 83);
+    color: white;
+    text-align: center;
+}

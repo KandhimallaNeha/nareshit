@@ -1,0 +1,13 @@
+.login-container{
+    border: 1px solid;
+    width: 350px;
+    height: 300px;
+    margin-top: 250px;
+    margin-left: 40%;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+button{
+    width: 90%;
+}

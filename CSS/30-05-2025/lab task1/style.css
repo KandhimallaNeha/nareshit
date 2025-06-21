@@ -1,0 +1,12 @@
+div{
+    background-image: url("../../../Assets/cat.png");
+    background-size: 355px;
+    opacity: 1;
+    color: cadetblue;
+    width: 100%;
+    height: 50vh;
+    margin-top: 30%;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    
+}

@@ -1,0 +1,51 @@
+/* p{
+    color: #ff0000;
+}
+form{
+    color: rgb(98, 167, 230);
+}
+h1{
+    color: blanchedalmond;
+}
+h2{
+    color:rgba(red, green, blue, alpha);
+}
+article{
+    color: rgb(247, 178, 15);
+} */
+/* div{
+    background: #ff0000;
+    height: 100px;
+    width: 100px;
+    background-image: url("../../Assets/cat.png");
+    
+} */
+/* section{
+    background-image: url("../../Assets/cat.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: blue;
+
+    
+} */
+/* div{
+    background-image: url("../../Assets/cat.png");
+    background-repeat: no-repeat;
+    background-color:orange;
+    background-size: 400px;
+    width: 100%;
+    background-attachment: fixed;
+    overflow: hidden;
+    background-position: center;
+
+} */
+ div{
+    background-image: url("../../Assets/cat.png");
+    background-repeat: no-repeat;
+    background-color: bisque;
+    background-size:  400px;
+    width: 100%;
+    background-attachment: fixed;
+    overflow: hidden;
+    background-position: center;
+ }

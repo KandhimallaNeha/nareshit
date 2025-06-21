@@ -1,0 +1,57 @@
+#box {
+/* background-color: cadetblue; */
+border-style: double;
+border-color: blueviolet;
+color: chocolate;
+/* if we do not give border color,it takes font-color ('color') property */
+border: 2px solid;
+border-top: 10px dotted rgb(12, 76, 238);
+
+
+}
+
+#box1 {
+    /* border is a short-hand property 
+    for border-width
+    border-style
+    border-color */
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border: 2px solid lightgreen;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 20px;
+    border-radius: 50%;
+
+
+}
+
+#boxm {
+    border: 5px solid grey;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+
+}
+#sec{
+    border: 4px dotted red;
+width: 600px;
+padding-left: 50px;
+margin-left: 50px;
+margin-right: 50px;
+margin-right: 50px;
+margin: auto;
+
+}
+#mydiv{
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+
+
+
+}

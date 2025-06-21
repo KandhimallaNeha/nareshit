@@ -1,0 +1,74 @@
+MCQs on CSS Basics
+===================
+
+1. What does CSS stand for?
+A) Creative Style Sheets
+B) Cascading Style Sheets 
+C) Computer Style Sheets
+D) Colorful Style Sheets
+
+Ans:B
+2. Which HTML tag is used to apply an internal style sheet?
+A) <script>
+B) <style> 
+C) <css>
+D) <link>
+Ans:B
+
+3. Where is an inline style defined?
+A) In a separate CSS file
+B) Inside the <style> tag
+C) Inside the HTML element using the style attribute 
+D) Inside a <div> tag
+Ans:c
+
+4. Which is the correct HTML syntax to link an external CSS file?
+A) <stylesheet>style.css</stylesheet>
+B) <link rel="stylesheet" href="style.css"> 
+C) <css src="style.css">
+D) <style href="style.css">
+Ans:B
+
+5. What is an advantage of using external CSS?
+A) Styles are limited to one page
+B) Easier to update and reuse across multiple pages 
+C) Styles are faster than inline
+D) It doesn’t require a separate file
+
+Ans:B
+
+6. Which of the following is a limitation of CSS?
+A) Cannot apply colors
+B) Cannot style fonts
+C) Cannot add dynamic behavior 
+D) Cannot create layouts
+Ans:C
+
+7. Which type of CSS has the highest specificity (priority)?
+A) External CSS
+B) Internal CSS
+C) Inline CSS 
+D) Browser default styles
+Ans:C
+
+8. What is the correct way to write a CSS rule to make text color red?
+A) text-color: red;
+B) {color: red}
+C) color: red; 
+D) text = red;
+Ans:C
+
+9. Where is the <link> tag placed when using an external style sheet (most preferred)?
+A) Inside the <body>
+B) Inside the <footer>
+C) Inside the <style> tag
+D) Inside the <head> 
+Ans:D
+
+10. What is the main purpose of using CSS in web development?
+A) To write backend code
+B) To style and design web pages 
+C) To create database connections
+D) To debug JavaScript
+
+Ans:B

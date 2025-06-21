@@ -1,0 +1,20 @@
+#my{
+    padding: 20px;
+    border: 1px solid;
+}
+#profile{
+    background-color: aquamarine;
+    color:cadetblue;
+    text-align: center;
+}
+#name{
+    text-indent: 15px;
+}
+table{
+    width: 100%;
+}
+button{
+    color: white;
+    background-color: darkcyan;
+    margin-top: 10px;
+}

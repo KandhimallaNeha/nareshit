@@ -1,0 +1,8 @@
+/* external css using selectors */
+p
+{
+    background-color: blue;
+}
+h4{
+    background-color: beige;
+}

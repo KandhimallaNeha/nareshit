@@ -1,0 +1,67 @@
+ .box{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        display: inline-block;
+    }
+    .box1{
+        width: 100px;
+        height: 100px;
+        background-color: green;
+        display: inline-block;
+    }
+    .box2{
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        display: inline-block;
+    }
+    .box3{
+        width: 100px;
+        height: 100px;
+        background-color: pink;
+        display: inline-block;
+    }
+    .box4{
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        display: inline-block;
+    }
+    .box5{
+        width: 100px;
+        height: 100px;
+        background-color: orange;
+        display: inline-block;
+    }
+    .box6{
+        width: 100px;
+        height: 100px;
+        background-color: black;
+        display: inline-block;
+    }
+    .box7{
+        width: 100px;
+        height: 100px;
+        background-color: white;
+        display: inline-block;
+    }
+    .box8{
+        width: 100px;
+        height: 100px;
+        background-color: aqua;
+        display: inline-block;
+    }
+    .like{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.we{
+    font-family:unset;
+}
+.hi{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.by{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}

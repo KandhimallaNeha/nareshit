@@ -1,0 +1,10 @@
+ h1{
+    /* display not space ,completely removed
+    /* display: none; */
+    /* use space,means hidding  */
+    visibility: hidden;
+} 
+ img{
+    /* display: none; */
+opacity: 0;
+ }

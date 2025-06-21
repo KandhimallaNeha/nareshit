@@ -1,0 +1,59 @@
+1)  Write a C program to add each digit of a given two digit number. The given number is 67.
+
+  int a=67
+
+Example:- 67 = 6 + 7 = 13
+
+Expected output is : 13
+
+===================================
+
+2) Write a C Program to perforn addition of two number without using '+' operator
+
+Example:-
+
+      a=5
+      b=3
+
+output= 8
+
+===================================
+
+3) Write a C program to reverse a two digit number without using any loop. The given number is 13 and the output is 31.
+
+Example :- 13
+output:- 31
+
+===================================
+
+4) Write a C program to find the previous multiple of 10 of a given two digit number . The given number is 23 and the output is . 20
+
+Example :- 23
+
+Expected output:- 20
+
+===================================
+
+5) Write a C program to find the next multiple of 10 of a given two digit number . The given number is 26 and the output is . 30
+
+Example :- 26
+
+Expected output:- 30
+
+
+===================================
+
+6) Write a C Program to swap the numbers by using third variable
+ 
+Example:-  a=10, b=20;
+
+expected output:- a=20, b=10
+
+===================================
+
+7) Write a C Program to swap the numbers without using third variable
+ 
+Example:-  a=10, b=20;
+
+expected output:- a=20, b=10
+

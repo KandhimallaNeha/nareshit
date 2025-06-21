@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+}
+p{
+    color: blueviolet;
+    text-align: inherit;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+article{
+    text-indent: 50px;
+}
+span{
+    text-shadow: 2px 2px 2px blue;
+}
+nav ul{
+    border: 10px;
+    list-style-position: inside;
+}
+.like{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

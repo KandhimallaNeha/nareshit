@@ -1,0 +1,47 @@
+body{
+    background-color: darkgray;
+   
+}
+#box1{
+    border: 2px solid black;
+    background-color: aqua;
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    
+}
+#box2{
+    border: 2px dashed orangered;
+    background-color: rgb(228, 183, 94);
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    
+}
+#box3{
+    border: 2px dotted rgb(182, 38, 238);
+    background-color: rgb(220, 126, 228);
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    
+}
+#box4{
+    border: 2px double rgb(5, 134, 39);
+    background-color: rgb(139, 232, 151);
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    
+}

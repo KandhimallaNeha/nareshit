@@ -1,0 +1,37 @@
+1)  Write C program to check given number is spy number or not.
+--------
+
+spy number :
+A spy number is a number where the sum of its digits equals
+the product of its digits.
+For example :
+1124 is a spy number, because the sum of its digits is 1+1+2+4=8 and 
+the product of its digits is 1*1*2*4=8 is equal.
+
+====================================
+
+2) Write a c program to find the given Number is Prime Or Not
+Enter the number : 13
+13 is a prime number.
+
+====================================
+
+3) Write a c program that will print the prime number from 1 to N
+===================================
+
+
+4)Write C program to check given number is automorphic number or not.
+
+Automorphic number :
+An automorphic number is a number whose square ends in the
+same digits as the number itself.
+For example:
+5,6,25 are automorphic numbers.
+5*5=25 // last digit is 5
+6*6=36 // last digit is 6
+25*25=625 // last digit is 25
+
+==========================================================================================
+
+
+4):

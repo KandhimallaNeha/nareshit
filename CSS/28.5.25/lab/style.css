@@ -1,0 +1,40 @@
+#batch{
+    background-color: blue;
+    align-items: center;
+    color: white;
+    
+}
+#home{
+    background-color: lightgreen;
+}
+#me{
+    border: 1px solid;
+}
+#skills{
+    border: 1px solid;
+}
+#insplration{
+    border: 1px solid;
+}
+#text{
+ text-indent: 50px;
+}
+#table{
+    border: 1px solid;
+}
+#form{
+    border: 1px solid;
+}
+#other{
+    border: 1px solid;
+}
+#more{
+    background-color: bisque;
+}
+#nam{
+    background-color: rgb(185, 183, 177);
+}
+#copy{
+    background-color: rgb(55, 133, 217);
+    color: white;
+}

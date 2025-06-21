@@ -1,0 +1,87 @@
+1) Write a C program to check whether the triangle is equilateral, isosceles or scalene triangle.
+-------  
+         Validity Check:
+         If all three sides are equal then the triangle is equilateral.
+         If exactly two sides are equal then the triangle is isosceles.
+         If all sides are different then the triangle is scalene.
+
+Sample input :  Enter the lengths of the three sides of the triangle:
+                Side 1: 3
+                Side 2: 3
+                Side 3: 3
+Sample output : The triangle is equilateral.
+
+
+Sample input :  Enter the lengths of the three sides of the triangle:
+                Side 1: 5
+                Side 2: 5
+                Side 3: 8
+Sample output : The triangle is isosceles.
+
+
+Sample input : Enter the lengths of the three sides of the triangle:
+                Side 1: 3
+                Side 2: 4
+                Side 3: 5
+Sample output : The triangle is scalene.
+
+
+Sample input : Enter the lengths of the three sides of the triangle:
+                Side 1: 1
+                Side 2: 2
+                Side 3: 3
+Sample output : The triangle is not valid.
+
+
+==========================================================================================================
+
+Que 2 : Rajesh bought an old TV for $3500. and Rajesh sold the TV for $7000, which includes a 5% VAT and a 10% tax on the selling price. 
+-------  Calculate the net selling price by removing VAT and tax.
+         Determine whether Rajesh made a profit or incurred a loss, and calculate the respective amount.
+
+         Program Requirements:
+
+         The program should read the cost price and the total selling price (including VAT and tax).
+         The program should calculate the net selling price by removing VAT and tax.
+         The program should compare the net selling price with the cost price to determine profit or loss.
+         The program should display the amount of profit or loss.
+
+Sample input  : Enter the cost price of the TV: 3500
+                Enter the selling price of the TV (including VAT and tax): 7000
+Sample output : You made a profit of 1956.52
+
+
+==========================================================================================================
+
+Que 3 : Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+--------
+
+Percentage >= 90% : Grade A
+
+Percentage >= 80% : Grade B
+
+Percentage >= 70% : Grade C
+
+Percentage >= 60% : Grade D
+
+Percentage >= 40% : Grade E
+
+Percentage < 40% : Grade F
+
+
+
+====================================================================================================
+
+Que 4 : Write a C program to input electricity unit charges and calculate total electricity bill according to the given condition:
+--------
+
+For first 50 units Rs. 0.50/unit
+
+For next 100 units Rs. 0.75/unit
+
+For next 100 units Rs. 1.20/unit
+
+For unit above 250 Rs. 1.50/unit
+
+An additional surcharge of 20% is added to the bill
+

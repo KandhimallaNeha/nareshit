@@ -1,0 +1,45 @@
+#navBar{
+    border: 1px solid yellowgreen;
+    height: 75px;
+    background-color: aquamarine;
+
+
+}
+#nav{
+    display: flex;
+    height: inherit;
+    width: 90%;
+    margin: auto;
+}
+/* div{
+    height: inherit;
+    border: 1px solid gray;
+    flex: 1px;
+    background-color: rgb(133, 162, 181);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} */
+/* #logo{
+width: 25%;
+background-color: blanchedalmond;
+}
+#menublock{
+    width: 50%;
+background-color: rgb(107, 107, 212);
+}
+#authBlock{
+width: 25%;
+background-color: rgb(193, 137, 53);
+} */
+ #Login{
+    padding: 4px 12px;
+ }
+ #loginform{
+    background-color: red;
+    border: 1px solid;
+    height: inherit;
+    align-items: center;
+ }
+ 
