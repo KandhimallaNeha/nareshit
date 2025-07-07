@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        }
+        header{
+            display: flex;
+            justify-content: space-around;
+            border: 1px solid;
+            height: 40px;
+        }
+        .tilte{
+            color: blue;
+            font-size: xx-large;
+        }
+
+        nav{
+            display: flex;
+            gap: 20px;
+
+        }
+        .home{
+            font-weight: bold;
+            
+        }
+        button{
+            background-color: blue;
+            height: 25px;
+            width: 60px;
+            border-radius: 10px;
+
+        }
+        .firstbox{
+            height: 300px;
+            border: 1px solid;
+            width: 200px;
+            border-radius: 20px;
+            justify-items: center;
+            align-items: center;
+
+        }
+        .categories{
+            font-size: x-large;
+            font-weight: bolder;
+        }
+        ul{
+            text-decoration: none;
+            
+        }
+      .sort{
+        text-align: center;
+        width: 150px;
+      }
+      .filter{
+        text-align: center;
+      }
+      .text{
+        width: 200px;
+      }
+      .all{
+        display: flex;
+        gap: 10px;
+      }
+    </style>
+</head>
+<body>
+    <header>
+        <span class="tilte">FoodieDalight</span>
+        <nav>
+           <span class="home">Home</span>
+           <span>About Us</span>
+           <span>Contact</span>
+           <button>Sign in</button>
+        </nav>
+    </header>
+    <main>
+        <div class="all">
+            <div class="firstbox">
+                
+                <span class="categories">categories</span>
+                <ul>
+                    <li>All Cuisines</li>
+                    <li>Indian</li>
+                    <li>Italian</li>
+                    <li>Chinese</li>
+                    <li>Mexican</li>
+                    <li>Desserts</li>
+                    <li>Beverages</li>
+                </ul>
+            </div>
+            <div>
+                <div>
+                    <input class="text" type="text" placeholder="Search for food..."  name="" id="">
+                    <input class="filter" type="text" placeholder="Filter" name="" id="">
+                    <input class="sort" type="text" placeholder="Sort by" name="" id="">
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

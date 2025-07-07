@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+       let att=parseInt(prompt("attemptsLeft = "))
+       let islog=prompt("enter false or true")
+       
+       let correct="secret123";
+       if(islog==="false"){
+        while(att>0 && islog==="false"){
+         let enter=prompt("Enter a curret password")
+         if(enter===correct){
+            islog=ture;
+            console.log("Login successful!")
+        }
+        else{
+            att--;
+            console.log(att+"attempts left")
+        }
+
+       }}
+       else{
+        console.log("getout");
+       }
+    </script>
+</body>
+</html>

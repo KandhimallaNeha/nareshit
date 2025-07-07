@@ -1,17 +1,19 @@
+body{
+    width: 100vw;
+}
 #banner{
     background-image: url("https://images.meesho.com/images/marketing/1746425994914.webp");
-    height: 400px;
+    height: 300px;
     background-size: cover;
-    
-    
+    width: 100%;
 }
 .goldBanner{
-    background-image: url("./images/gold.jpg");
+    background-image: url("https://images.meesho.com/images/marketing/1744698265981.webp");
     background-size: cover;
     width: 100%;
 }
 .goldBanner>div{
-    max-width: 30w;
+    max-width: 30vw;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     row-gap: 30px;
@@ -19,7 +21,7 @@
     margin-right: 100px;
 }
 .products{
-    display:grid;
+    display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 20px;
 }

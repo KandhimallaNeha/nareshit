@@ -1,0 +1,14 @@
+let n=10;
+let na='N';
+let char="neha";
+let m=3.0;
+let he=true
+let me
+let nu=null
+console.log(typeof n)
+console.log(typeof na)
+console.log(typeof char)
+console.log(typeof m)
+console.log(typeof he)
+console.log(typeof me)
+console.log(typeof nu)

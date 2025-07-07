@@ -1,0 +1,9 @@
+n=0;
+m=0;
+temp=1
+for(i=1;i<=100;i++){
+    console.log(m)
+    n=m+temp
+    m=temp
+    temp=n
+}

@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     background-color: beige;
+     border-radius: 20px;
+     font-size: 72px;
+}
+#conter{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 72px;
+   margin-top: 150px;
+    gap: 10px;
+   width: 400px;
+}
+button
+{
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 10px;
+    color:white;
+    flex-direction: column;
+
+}

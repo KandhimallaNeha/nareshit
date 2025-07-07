@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let pass=prompt("Password: ")
+        let up=0;
+        let low=0;
+        let dig=0;
+        for(i=0;i<=pass.length-1;i++){
+            if(pass[i]>='A' && pass[i]<='Z'){
+               up++;
+            }
+            else{
+                console.log("Password strength: Medium (Contains digit and lowercases).")
+            }
+            if(pass[i]>='a' && pass[i]<='z'){
+                low++;
+            }
+            else{
+                console.log("Password strength: Medium (Contains digit and uppercases).")
+            }
+            
+        }
+    </script>
+</body>
+</html>
